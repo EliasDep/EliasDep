@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙂 I'm currently working on my owm projects<br>I'm looking to collaborate with others programmers 🤝 <br>I'm learning Full Stack Development in CoderHouse ⚡<br>💻 Ask me about web design<br>I'm looking for team working 💥
+🙂 I'm currently working on my owm projects<br>I'm looking to collaborate with others programmers 🤝 <br><br>💻 Ask me about web design<br>I'm looking for team working 💥
 
 
 ## 🌐 Socials:
