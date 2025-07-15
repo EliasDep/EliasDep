@@ -9,8 +9,8 @@
 
 
 ## 🌐 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliascodes/) 💼 Connect with me on LinkedIn. <br><br/>
-🖱 Check out my personal portfolio to learn more about me and my work: [https://eliasdeppner.netlify.app](https://eliasdeppner.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliascodes/) 💼 Connect with me on LinkedIn.<br><br/>
+🖱 Check out my personal portfolio to learn more about me and my work: [https://eliasdeppner.netlify.app](https://eliasdeppner.netlify.app/)<br><br/>
 📸 I also share content on Instagram as a freelance programmer: [@elia_codes_](https://www.instagram.com/elias_codes)
 
 
