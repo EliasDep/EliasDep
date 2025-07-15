@@ -7,12 +7,14 @@
 
  Feel free to reach out if you want to talk about web development, mobile apps, or how to bring an idea to life through code.
 
+---
 
 ## 🌐 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliascodes/) 💼 Connect with me on LinkedIn.<br><br/>
 🖱 Check out my personal portfolio to learn more about me and my work: [https://eliasdeppner.netlify.app](https://eliasdeppner.netlify.app/)<br><br/>
 📸 I also share content on Instagram as a freelance programmer: [@elia_codes_](https://www.instagram.com/elias_codes)
 
+---
 
 # 💻 Technologies
 
@@ -21,7 +23,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EliasDep&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
