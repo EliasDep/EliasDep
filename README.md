@@ -1,36 +1,70 @@
-# 💬 About Me
-👋 Hi! I'm Elías, a Fullstack Developer focused on building web and mobile applications. I'm currently working on personal projects and collaborating on freelance developments.
+# 👋 Hi, I'm Elías Deppner
 
-🚀 I'm especially interested in creating functional and visually appealing solutions for entrepreneurs, startups, and businesses looking to boost their digital presence.
+## Backend Developer | Full Stack Developer
 
-🤝 I'm open to collaborating on projects where I can contribute my skills in design, development, and business logic.
+I'm a Full Stack Developer specialized in backend development, focused on building scalable APIs, backend systems, and database-driven applications using JavaScript technologies.
 
- Feel free to reach out if you want to talk about web development, mobile apps, or how to bring an idea to life through code.
+My main stack includes:
 
----
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- REST APIs
+- JWT Authentication
 
-## 🌐 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliascodes/) 💼 Connect with me on LinkedIn.<br><br/>
-🖱 Check out my personal portfolio to learn more about me and my work: [https://eliasdeppner.netlify.app](https://eliasdeppner.netlify.app/)<br><br/>
-📸 I also share content on Instagram as a freelance programmer: [@elia_codes_](https://www.instagram.com/elias_codes)
-
----
-
-# 💻 Technologies
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Native](https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![Render](https://img.shields.io/badge/Render-%23430098.svg?style=for-the-badge&logo=render&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+I also have experience working with React, React Native, and frontend integration, which helps me understand the complete flow between client and server applications.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EliasDep&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EliasDep&theme=dark&hide_border=false)<br/>
+# 🚀 Current Focus
+
+- Building backend-focused projects
+- Improving API architecture and code organization
+- Learning TypeScript and PostgreSQL
+- Developing scalable and maintainable backend systems
+
+---
+
+# 🌐 Links
+
+💼 LinkedIn  
+[linkedin.com/in/eliasdeppner](https://www.linkedin.com/in/eliasdeppner/)
+
+🌍 Portfolio  
+[eliasdeppner.netlify.app](https://eliasdeppner.netlify.app/)
+
+📫 Contact  
+eliasdeppner32@gmail.com
+
+---
+
+# 💻 Tech Stack
+
+## Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Frontend & Mobile
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23430098.svg?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=EliasDep&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=EliasDep&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=EliasDep&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
